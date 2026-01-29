@@ -36,6 +36,7 @@ radius = 5.0
 height = 18.0
 
 [node name="Player" type="Area2D" unique_id=1581704742]
+scale = Vector2(5, 5)
 script = ExtResource("1_qlg0r")
 metadata/_edit_group_ = true
 
